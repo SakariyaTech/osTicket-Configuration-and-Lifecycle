@@ -3,9 +3,7 @@ osTicket (Help Desk) Configuration and Ticket Lifecycle
 
 ### Description
 
-This project continues from [my osTicket installation](https://github.com/SakariyaTech/osTicket-Installation), 
-covering post-installation configuration and ticket lifecycle simulation. real support 
-tickets from submission through resolution.
+This project continues from my [osTicket installation,](https://github.com/SakariyaTech/osTicket-Installation) covering post-installation configuration and simulating real support tickets from submission through resolution.
 
 ### Environments and Technologies Used
 
